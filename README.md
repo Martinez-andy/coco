@@ -1,1 +1,3 @@
-git pull git@github.com:Martinez-andy/violet.git
+Welcome to violet!
+
+This project was built on Javascript and Python using web frameworks such as react, typescipt, and django. Violet was made to...
